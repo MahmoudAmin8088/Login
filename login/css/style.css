@@ -1,0 +1,47 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #24353F;
+}
+
+h1{
+    font-family: 'Titillium Web', sans-serif;
+    color: #17a2b8;
+    font-size: 40px;
+    line-height: 48px;
+}
+input[placeholder]{
+    background-color: transparent;
+    color: white;
+}
+.form-control::placeholder{
+    color: white;
+}
+p{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+
+.container a:hover{
+    
+    text-decoration-line: underline;
+}
+h2{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+}
+
+.navbar a{
+    color: white;
+    font-size: 25px;
+    margin: 10px;  
+}
+.home{
+    height: 100vh;
+}
+
+
+
+
+
